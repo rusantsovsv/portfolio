@@ -21,7 +21,7 @@
 10. [Предсказание стоимости автомобиля](https://github.com/rusantsovsv/portfolio/blob/master/10_ML_auto/ML_auto.ipynb) - на основании исторических данных о характеристиках построил модель предсказания стоимости автомобилей. ---->>>> [подробнее о проекте](https://github.com/rusantsovsv/portfolio/blob/master/10_ML_auto/readme.md)
 11. [Предсказание временного ряда](https://github.com/rusantsovsv/portfolio/blob/master/11_ML_time_series/ML_time_series.ipynb) - построил модель, предсказывающую количество заказов такси на следующий час. ---->>>> [подробнее о проекте](https://github.com/rusantsovsv/portfolio/blob/master/11_ML_time_series/readme.md)
 12. [Поиск токсичных коментариев](https://github.com/rusantsovsv/portfolio/blob/master/12_ML_text/ML_text.ipynb) - обучил модель классифицировать комментарии на позитивные и негативные на наборе данных с разметкой о токсичности. ---->>>> [подробнее о проекте](https://github.com/rusantsovsv/portfolio/blob/master/12_ML_text/readme.md)
-13. [Аналитика в авиакомпании](https://github.com/rusantsovsv/portfolio/blob/master/13_SQL_query/13_SQL_query.ipynb) - на основе сделанных выборок из базы PostgreSQL провел аналитику частоты рейсов авиакомпании. ---->>>> [подробнее о проекте](https://github.com/rusantsovsv/portfolio/blob/master/13_SQL_query/readme.md)
+13. [Аналитика в авиакомпании](https://github.com/rusantsovsv/portfolio/blob/master/13_SQL_query/13_SQL_query.ipynb) - на основе сделанных выборок из базы данных (СУБД PostgreSQL) провел аналитику частоты рейсов авиакомпании. ---->>>> [подробнее о проекте](https://github.com/rusantsovsv/portfolio/blob/master/13_SQL_query/readme.md)
 
 ## Как пользоваться?
 
