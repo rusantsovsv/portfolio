@@ -7,11 +7,13 @@
 
 ## Содержание
 
+*--В ссылке "подробнее о проекте" содержится более полное описание проекта и описание стека используемых технологий--*
+
 1. [Исследование надежности заемщиков](https://github.com/rusantsovsv/portfolio/blob/master/01_Scoring/Credit_scor.ipynb) - подготовил данные в виде таблиц для построения модели кредитного скоринга. ---->>>> [подробнее о проекте](https://github.com/rusantsovsv/portfolio/blob/master/01_Scoring/readme.md)
 2. [Исследование объявлений о продаже квартир](https://github.com/rusantsovsv/portfolio/blob/master/02_Property/Ya_property.ipynb) - учился определять рыночную стоимость недвижимости. ---->>>> [подробнее о проекте](https://github.com/rusantsovsv/portfolio/blob/master/02_Property/readme.md)
 3. [Определение перспективного тарифа для телеком компании](https://github.com/rusantsovsv/portfolio/blob/master/03_Analise_tariffs/Ya-megaline.ipynb) - разбирался, какой тариф приносит больше денег оператору связи. ---->>>> [подробнее о проекте](https://github.com/rusantsovsv/portfolio/blob/master/03_Analise_tariffs/readme.md)
 4. [Планирование рекламной компании](https://github.com/rusantsovsv/portfolio/blob/master/04_game_advertising/game-advertising.ipynb) - нужно выявить закономерности, влияющие на успешность игры и спланировать рекламную компанию на следующий год. ---->>>> [подробнее о проекте](https://github.com/rusantsovsv/portfolio/blob/master/04_game_advertising/readme.md)
-5. []() - . ---->>>> [подробнее о проекте]()
+5. [Рекомендация тарифов](https://github.com/rusantsovsv/portfolio/blob/master/05_ML_klassification_tariffs/ML_klassification_tariffs.ipynb) - построил модель для задачи классификации, которая выберет подходящий тариф на основе данных о поведении клиентов. ---->>>> [подробнее о проекте](https://github.com/rusantsovsv/portfolio/blob/master/05_ML_klassification_tariffs/readme.md)
 6. []() - . ---->>>> [подробнее о проекте]()
 7. []() - . ---->>>> [подробнее о проекте]()
 8. []() - . ---->>>> [подробнее о проекте]()
