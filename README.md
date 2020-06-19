@@ -5,4 +5,4 @@
 
 ## Содержание
 
-[Анализ кредитного скоринга](https://github.com/rusantsovsv/portfolio/blob/master/01_Scoring/Credit_scor.ipynb)
+1. [Анализ кредитного скоринга](https://github.com/rusantsovsv/portfolio/blob/master/01_Scoring/Credit_scor.ipynb)
