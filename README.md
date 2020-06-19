@@ -21,3 +21,16 @@
 10. [Предсказание стоимости автомобиля](https://github.com/rusantsovsv/portfolio/blob/master/10_ML_auto/ML_auto.ipynb) - на основании исторических данных о характеристиках построил модель предсказания стоимости автомобилей. ---->>>> [подробнее о проекте](https://github.com/rusantsovsv/portfolio/blob/master/10_ML_auto/readme.md)
 11. [Предсказание временного ряда](https://github.com/rusantsovsv/portfolio/blob/master/11_ML_time_series/ML_time_series.ipynb) - построил модель, предсказывающую количество заказов такси на следующий час. ---->>>> [подробнее о проекте](https://github.com/rusantsovsv/portfolio/blob/master/11_ML_time_series/readme.md)
 12. [Поиск токсичных коментариев](https://github.com/rusantsovsv/portfolio/blob/master/12_ML_text/ML_text.ipynb) - обучил модель классифицировать комментарии на позитивные и негативные на наборе данных с разметкой о токсичности. ---->>>> [подробнее о проекте](https://github.com/rusantsovsv/portfolio/blob/master/12_ML_text/readme.md)
+
+## Как пользоваться?
+
+Можно просто переходить по ссылкам, а можно клонировать репозиторий себе на локальный компьютер для просмотра оффлайн:
+```bash
+git clone https://github.com/rusantsovsv/portfolio.git
+```
+
+Датасеты в портфолио не представлены, но кодом может пользоваться любой желающий. Установите необходимые библиотеки с помощью pip и списка зависимостей requirements.txt:
+
+```bash
+pip install -r requirements.txt
+```
