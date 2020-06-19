@@ -7,7 +7,7 @@
 
 ## Содержание
 
-1. [Исследование надежности заемщиков](https://github.com/rusantsovsv/portfolio/blob/master/01_Scoring/Credit_scor.ipynb) - подготовка данных в виде таблиц для построения модели кредитного скоринга - [Подробнее о проекте](https://github.com/rusantsovsv/portfolio/blob/master/01_Scoring/readme.md)
+1. [Исследование надежности заемщиков](https://github.com/rusantsovsv/portfolio/blob/master/01_Scoring/Credit_scor.ipynb) - подготовил данные в виде таблиц для построения модели кредитного скоринга. ->>>> [подробнее о проекте](https://github.com/rusantsovsv/portfolio/blob/master/01_Scoring/readme.md)
 2. [Исследование объявлений о продаже квартир](https://github.com/rusantsovsv/portfolio/blob/master/02_Property/Ya_property.ipynb) - учился определять рыночную стоимость недвижимости - [Подробнее о проекте](https://github.com/rusantsovsv/portfolio/blob/master/02_Property/readme.md)
 3. [Определение перспективного тарифа для телеком компании](https://github.com/rusantsovsv/portfolio/blob/master/03_Analise_tariffs/Ya-megaline.ipynb) - разбирался, какой тариф приносит больше денег оператору связи - [Подробнее о проекте](https://github.com/rusantsovsv/portfolio/blob/master/03_Analise_tariffs/readme.md)
 4. []() - [Подробнее о проекте]()
