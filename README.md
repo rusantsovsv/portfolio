@@ -7,7 +7,7 @@
 
 ## Содержание
 
-*--В ссылке "подробнее о проекте" содержится более полное описание проекта и описание стека используемых технологий--*
+*-- В ссылке "подробнее о проекте" содержится более полное описание проекта и описание стека используемых технологий --*
 
 1. [Исследование надежности заемщиков](https://github.com/rusantsovsv/portfolio/blob/master/01_Scoring/Credit_scor.ipynb) - подготовил данные в виде таблиц для построения модели кредитного скоринга. ---->>>> [подробнее о проекте](https://github.com/rusantsovsv/portfolio/blob/master/01_Scoring/readme.md)
 2. [Исследование объявлений о продаже квартир](https://github.com/rusantsovsv/portfolio/blob/master/02_Property/Ya_property.ipynb) - учился определять рыночную стоимость недвижимости. ---->>>> [подробнее о проекте](https://github.com/rusantsovsv/portfolio/blob/master/02_Property/readme.md)
