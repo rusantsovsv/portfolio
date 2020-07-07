@@ -22,6 +22,7 @@
 11. [Предсказание временного ряда](https://github.com/rusantsovsv/portfolio/blob/master/11_ML_time_series/ML_time_series.ipynb) - построил модель, предсказывающую количество заказов такси на следующий час. ---->>>> [подробнее о проекте](https://github.com/rusantsovsv/portfolio/blob/master/11_ML_time_series)
 12. [Поиск токсичных комментариев](https://github.com/rusantsovsv/portfolio/blob/master/12_ML_text/ML_text.ipynb) - обучил модель классифицировать комментарии на позитивные и негативные на наборе данных с разметкой о токсичности. ---->>>> [подробнее о проекте](https://github.com/rusantsovsv/portfolio/blob/master/12_ML_text)
 13. [Аналитика в авиакомпании](https://github.com/rusantsovsv/portfolio/blob/master/13_SQL_query/13_SQL_query.ipynb) - на основе сделанных выборок из базы данных (СУБД PostgreSQL) провел аналитику частоты рейсов авиакомпании. ---->>>> [подробнее о проекте](https://github.com/rusantsovsv/portfolio/blob/master/13_SQL_query)
+14. [Определение возраста по фото](--) - обучил нейросеть на фотографиях лиц посетителей магазина.---->>>> [подробнее о проекте](--)
 
 ## Как пользоваться?
 
